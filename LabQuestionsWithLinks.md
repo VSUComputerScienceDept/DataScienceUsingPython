@@ -49,11 +49,12 @@
 - https://www.w3schools.com/python/python_dictionaries.asp
 
 ### Python program to import data from CSV file using pandas.
-- 
+- https://www.w3schools.com/python/pandas/pandas_csv.asp
+
 
 ### Python program to demonstrate bar plot.
-- 
 
+- https://pythonbasics.org/matplotlib-bar-chart/
 ### Python program to generate random numbers.
 - https://www.programiz.com/python-programming/examples/random-number
 
