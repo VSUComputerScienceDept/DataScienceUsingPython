@@ -42,7 +42,7 @@
 - https://www.programiz.com/python-programming/examples/multiply-matrix
 
 ### Python program to check Weather a string is palindrome or not.
-- 
+- https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/
 
 ### Python program to create a dictionary and print it's content.
 
