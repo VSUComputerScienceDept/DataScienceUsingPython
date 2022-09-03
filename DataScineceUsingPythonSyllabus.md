@@ -2,9 +2,9 @@
 
 ## Unit-1
 
-[Introduction to data science]{.ul}
+### Introduction to data science
 
-[Topics]{.ul}
+#### Topics
 
 -   Data science and its importance
 
@@ -22,9 +22,9 @@
 
 ## Unit-2
 
-[Introduction to python]{.ul}
+### Introduction to python
 
-[Topics]{.ul}
+#### Topics
 
 -   What is python
 
@@ -50,34 +50,34 @@
 
 -   Break ,continue, pass
 
-[Unit-3]{.ul}
+## Unit-3
 
-[Control structure and string]{.ul}
+### Control structure and string
 
-[Topics]{.ul}
+#### Topics
 
-[Strings]{.ul}
+- Strings
 
--   Definition, excessing , Slising and basic operations.
+    -  Definition, excessing , Slising and basic operations.
 
-[Lists]{.ul}
+- Lists
 
--   Introduction, excessing lists, operations, Working With lists,
+    -   Introduction, excessing lists, operations, Working With lists,
     Functions and methods
 
-[Tuples]{.ul}
+- Tuples
 
--   Introduction, excessing Tuples , operations.
+    -   Introduction, excessing Tuples , operations.
 
-[Dictionaries]{.ul}
+- Dictionaries
 
--   Introduction, excessing values in dictionaries
+    -   Introduction, excessing values in dictionaries
 
-[Unit-4]{.ul}
+## Unit-4
 
-[Functions and modules]{.ul}
+### Functions and modules
 
-[Topics]{.ul}
+#### Topics
 
 -   Identifying a function
 
@@ -107,7 +107,7 @@
 
 -   Data cleaning
 
-[Sub Topics]{.ul}
+##### Sub Topics
 
 -   Empty cells
 
