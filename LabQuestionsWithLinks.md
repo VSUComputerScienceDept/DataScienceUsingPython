@@ -59,6 +59,8 @@
 - https://www.programiz.com/python-programming/examples/random-number
 
 
-Reference : https://www.programiz.com/python-programming/examples
-https://www.w3schools.com/python/pandas/default.asp
-https://www.geeksforgeeks.org/python-programming-language/?ref=shm
+## Reference : 
+
+- https://www.programiz.com/python-programming/examples
+- https://www.w3schools.com/python/pandas/default.asp
+- https://www.geeksforgeeks.org/python-programming-language/?ref=shm
